@@ -1,0 +1,11 @@
+{
+  "name": "dinder",
+  "displayName": "dinder"
+}
+{
+  "expo": {
+    "name": "dinder",
+    "slug": "dinder",
+    "sdkVersion": "19.0.1"
+  }
+}
